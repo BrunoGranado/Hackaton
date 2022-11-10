@@ -1,0 +1,72 @@
+Primeiro: Inserir Produtos
+1
+Sandalia
+1
+25
+100
+1
+Tenis
+2
+49
+50
+1
+Bota
+3
+200
+25
+1
+Jordans
+4
+500
+15
+1
+Chinelo
+5
+40
+150
+Segundo: Cadastrar Anuncios
+2
+Sandalia
+0
+2
+Jordans
+0
+2
+Bota
+1
+2
+Chinelo
+2
+Terceiro: Remover qualquer um inserido
+3
+1
+Quarto: Fechar Programa
+0
+Cinco: Reabrir
+Seis:Buscar Produto
+5
+Jordans
+5
+Bota
+Sete: Comprar Produtos
+4
+1
+4
+10
+4
+2
+4
+7
+1
+4
+1
+3
+3
+Oito: Fechar Programa
+0
+Nove: Reabrir
+Dez: Buscar Compra
+6
+Jordans
+6
+Bota
